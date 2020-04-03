@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+h2{
+  font-family: 'Playfair Display';
+  font-size: 72px;
+  font-style: italic;
+  color: rgba(212, 212, 190, 0.89);
+}
